@@ -10,7 +10,7 @@ displayName = "Gigamod"
 authors = "Gigawhat Programming Team"
 credits = "Samyar Sadat Akhavi, quacker2589"
 description = '''
-Gigamod, a mod by Gigawhat.
+Gigamod, A Minecraft mod by Gigawhat.
 
 
 §6§l§o------- Credits -------§r
@@ -26,10 +26,11 @@ Gigamod, a mod by Gigawhat.
 §7Sound design : Samyar Sadat Akhavi
 
 §a§o---- Testing ----§r
-§7Gigawhat Programing Team
+§7Gigawhat Programming Team
 
+GitHub: https://www.github.com/Gigawhat-net/Gigamod
 
-§dCopyright © 2021 - 2022 Gigawhat Programing Team.'''
+§dCopyright © 2021 - 2022 Gigawhat Programming Team.'''
 
 [[dependencies.gigawhat_gigamod]]
 
