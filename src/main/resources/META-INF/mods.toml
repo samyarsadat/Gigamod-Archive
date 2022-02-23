@@ -1,37 +1,35 @@
 modLoader = "javafml"
 loaderVersion = "[36.2,)"
-license = "MIT"
+license = "GPL-3.0"
 
 [[mods]] 
 modId = "gigawhat_gigamod" 
 version = "0.2.0"
-displayName = "Gigamod (Beta)"
+displayName = "Gigamod"
 #logoFile = "examplemod.png"
-authors = "Gigawhat Programing Team"
-credits = "Samyar Sadat Akhavi, Hikmet Umut Bulut, Ekin Aksu"
+authors = "Gigawhat Programming Team"
+credits = "Samyar Sadat Akhavi, quacker2589"
 description = '''
-Gigamod, a mod by Gigawhat for the Gigawhat Minecraft server.
-
+Gigamod, a mod by Gigawhat.
 
 
 §6§l§o------- Credits -------§r
 
 §b§o---- Code ----§r
 §aLead developer : Samyar Sadat Akhavi
-§3Developer : Ekin Aksu
 
 §e§o---- Textures & Models ----§r
-§7Texture design : Hikmet Umut Bulut, Samyar Sadat Akhavi
+§7Texture design : quacker2589, Samyar Sadat Akhavi
 §7Modeling : Samyar Sadat Akhavi
 
 §9§o---- Sound ----§r
-§7Sound design : Samyar Sadat Akhavi, Ekin Aksu
+§7Sound design : Samyar Sadat Akhavi
 
 §a§o---- Testing ----§r
 §7Gigawhat Programing Team
 
 
-§dCopyright © 2021 Gigawhat Programing Team.'''
+§dCopyright © 2021 - 2022 Gigawhat Programing Team.'''
 
 [[dependencies.gigawhat_gigamod]]
 
