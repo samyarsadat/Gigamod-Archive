@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-	WIP
+	The Gigamod, A Minecraft mod by Gigawhat.
 	<br>
 	<br>
   	<a href="https://github.com/Gigawhat-net/Gigamod/wiki">Wiki (WIP)</a>
@@ -18,7 +18,7 @@
 	|
 	<a href="https://files.minecraftforge.net/net/minecraftforge/forge/index_1.16.5.html"><img src="https://img.shields.io/badge/mod%20loader-Forge-orange"></a>
 	|
-	<a href="https://github.com/Gigawhat-net/Gigamod/blob/dev/LICENSE"><img src="https://img.shields.io/github/license/Gigawhat-net/Gigamod?color=blue"></a>
+	<a href="https://github.com/Gigawhat-net/Gigamod/blob/dev/LICENSE"><img src="https://img.shields.io/github/license/Gigawhat-net/Gigamod ?color=blue"></a>
 	|
 	<a href="https://github.com/Gigawhat-net/Gigamod/releases"><img src="https://img.shields.io/github/v/release/Gigawhat-net/Gigamod?display_name=tag&include_prereleases&label=version"></a>
 	|
@@ -70,6 +70,7 @@ Please take a look at <a href="https://github.com/Gigawhat-net/Gigamod/blob/dev/
 | -------------- | ---------------------------------------------------------------- |
 | Lead Developer | <a href="https://github.com/samyarsadat">Samyar Sadat Akhavi</a> |
 | Assets         | <a href="https://github.com/quacker2589">quacker2589</a>         |
+| Sound          | <a href="https://github.com/samyarsadat">Samyar Sadat Akhavi</a> |
 
 ### Special Thanks :
    - WIP
