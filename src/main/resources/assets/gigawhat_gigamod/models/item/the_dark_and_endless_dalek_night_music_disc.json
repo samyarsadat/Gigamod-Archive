@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": 
+    {
+        "layer0": "gigawhat_gigamod:items/the_dark_and_endless_dalek_night_music_disc"
+    }
+}

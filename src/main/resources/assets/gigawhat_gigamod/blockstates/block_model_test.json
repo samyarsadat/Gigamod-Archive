@@ -1,0 +1,27 @@
+{
+    "variants":
+    {
+        "facing=east":
+        {
+            "model": "gigawhat_gigamod:block/block_model_test",
+            "y": 90
+        },
+
+        "facing=north":
+        {
+            "model": "gigawhat_gigamod:block/block_model_test"
+        },
+
+        "facing=south":
+        {
+            "model": "gigawhat_gigamod:block/block_model_test",
+            "y": 180
+        },
+
+        "facing=west":
+        {
+            "model": "gigawhat_gigamod:block/block_model_test",
+            "y": 270
+        }
+    }
+}

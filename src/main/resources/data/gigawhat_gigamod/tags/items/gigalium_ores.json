@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values":
+    [
+        "gigawhat_gigamod:gigalium_ore",
+        "gigawhat_gigamod:gigalium_nether_ore",
+        "gigawhat_gigamod:gigalium_gigaland_ore"
+    ]
+}

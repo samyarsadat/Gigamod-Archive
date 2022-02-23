@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": 
+    {
+        "layer0": "gigawhat_gigamod:items/i_am_the_doctor_music_disc"
+    }
+}

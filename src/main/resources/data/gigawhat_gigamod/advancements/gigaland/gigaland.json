@@ -1,0 +1,27 @@
+{
+    "display": {
+        "icon": {
+            "item": "gigawhat_gigamod:gigastone"
+        },
+        "title": {"translate": "advancement.gigawhat_gigamod.gigaland.title", "color": "gold", "bold": false, "italic": true, "underlined": false},
+        "description": {"translate": "advancement.gigawhat_gigamod.gigaland.description"},
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "gigawhat_gigamod:gigaland/root_gigaland",
+    "criteria": {
+        "go_to_gigaland": {
+            "trigger": "minecraft:changed_dimension",
+            "conditions": {
+                "from": "overworld",
+                "to": "gigawhat_gigamod:gigaland"
+            }
+        }
+    },
+    "rewards": {
+        "experience": 2
+    }
+}

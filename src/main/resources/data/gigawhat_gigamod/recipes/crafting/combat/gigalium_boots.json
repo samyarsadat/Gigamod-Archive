@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "g g",
+        "g g"
+    ],
+    "key": {
+        "g": {
+            "item": "gigawhat_gigamod:gigalium_ingot"
+        }
+    },
+    "result": {
+        "item": "gigawhat_gigamod:gigalium_boots",
+        "count": 1
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": 
+    {
+        "layer0": "gigawhat_gigamod:items/server_wide_doctor_who_music_disc"
+    }
+}

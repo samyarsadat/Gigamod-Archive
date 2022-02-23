@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "gigawhat_gigamod:gigalium_block"
+        }
+    ],
+    "result": {
+        "item": "gigawhat_gigamod:gigalium_ingot",
+        "count": 9
+    }
+}

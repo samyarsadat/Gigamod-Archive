@@ -1,0 +1,58 @@
+{
+    "doctor_who_theme_2005": {
+        "category": "music",
+        "sounds": [{
+            "name": "gigawhat_gigamod:doctor_who_theme_2005",
+            "stream": true
+        }]
+    },
+
+    "i_am_the_doctor": {
+        "category": "music",
+        "sounds": [{
+            "name": "gigawhat_gigamod:i_am_the_doctor",
+            "stream": true
+        }]
+    },
+
+    "the_dark_and_endless_dalek_night": {
+        "category": "music",
+        "sounds": [{
+            "name": "gigawhat_gigamod:the_dark_and_endless_dalek_night",
+            "stream": true
+        }]
+    },
+
+    "gigawhat_theme": {
+        "category": "music",
+        "sounds": [{
+            "name": "gigawhat_gigamod:gigawhat_theme",
+            "stream": true
+        }]
+    },
+
+    "imperial_march": {
+        "category": "music",
+        "sounds": [{
+            "name": "gigawhat_gigamod:imperial_march",
+            "stream": true
+        }]
+    },
+
+    "eren_sahin_eronat_theme": {
+        "category": "music",
+        "sounds": [{
+            "name": "gigawhat_gigamod:eren_sahin_eronat_theme",
+            "stream": true
+        }]
+    },
+
+    "server_wide_doctor_who": {
+        "subtitle": "subtitles.gigawhat_gigamod.server_wide_doctor_who",
+        "category": "music",
+        "sounds": [{
+            "name": "gigawhat_gigamod:server_wide_doctor_who",
+            "stream": true
+        }]
+    }
+}

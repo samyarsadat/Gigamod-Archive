@@ -1,0 +1,9 @@
+{
+    "variants":
+    {
+        "":
+        {
+            "model": "gigawhat_gigamod:block/gigalium_block"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "display": {
+        "icon": {
+            "item": "gigawhat_gigamod:gigalium_ore"
+        },
+        "title": {"translate": "advancement.gigawhat_gigamod.gigalium.title"},
+        "description": {"translate": "advancement.gigawhat_gigamod.gigalium.description"},
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "tag": "gigawhat_gigamod:gigalium_ores"
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "experience": 8
+    }
+}

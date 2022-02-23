@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values":
+    [
+        "gigawhat_gigamod:gigalium_sword",
+        "gigawhat_gigamod:gigalium_helmet",
+        "gigawhat_gigamod:gigalium_chestplate",
+        "gigawhat_gigamod:gigalium_leggings",
+        "gigawhat_gigamod:gigalium_boots"
+    ]
+}

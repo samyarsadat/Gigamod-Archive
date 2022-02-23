@@ -1,0 +1,71 @@
+{
+    "surface_builder": "gigawhat_gigamod:gigaland_main",
+    "depth": 0.155,
+    "scale": 0.01,
+    "temperature": 1,
+    "downfall": 0.4,
+    "precipitation": "none",
+    "category": "extreme_hills",
+    "player_spawn_friendly": false,
+    "creature_spawn_probability": 0.1,
+    "effects": {
+        "sky_color": 16756224,
+        "fog_color": 16767626,
+        "water_color": 65471,
+        "water_fog_color": 12517097,
+        "grass_color": 8245504,
+        "foliage_color": 8245504,
+        "particle": {
+            "options": {
+                "type": "minecraft:lava"
+            },
+            "probability": 0.002
+        }
+    },
+    "starts": [
+        "minecraft:village_plains",
+        "minecraft:mineshaft",
+        "minecraft:mansion"
+    ],
+    "spawners": {
+        "monster": [
+            {
+                "type": "gigawhat_gigamod:gigaland_protector",
+                "weight": 1,
+                "minCount": 0,
+                "maxCount": 0
+            }
+        ]
+    },
+    "spawn_costs": {},
+    "carvers": {
+        "liquid": [
+            "gigawhat_gigamod:gigaland_cave",
+            "gigawhat_gigamod:gigaland_canyon"
+        ],
+        "air": [
+            "gigawhat_gigamod:gigaland_cave",
+            "gigawhat_gigamod:gigaland_canyon"
+        ]
+    },
+    "features": [
+        [
+            "minecraft:patch_grass_normal",
+            "minecraft:patch_large_fern"
+        ],
+        [
+            "minecraft:warm_ocean_vegetation",
+            "minecraft:kelp_warm",
+            "minecraft:seagrass_warm",
+            "minecraft:disk_clay",
+            "minecraft:disk_gravel",
+            "minecraft:disk_sand"
+        ],
+        [
+            "minecraft:lake_lava",
+            "minecraft:lake_water",
+            "minecraft:spring_water",
+            "minecraft:spring_lava"
+        ]
+    ]
+}

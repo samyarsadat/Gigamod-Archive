@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ggg",
+        " / ",
+        " / "
+    ],
+    "key": {
+        "g": {
+            "item": "gigawhat_gigamod:gigalium_ingot"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "gigawhat_gigamod:gigalium_pickaxe",
+        "count": 1
+    }
+}

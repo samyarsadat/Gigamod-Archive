@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "tag": "gigawhat_gigamod:gigalium_ores"
+    },
+    "result": "gigawhat_gigamod:gigalium_ingot",
+    "experience": 0,
+    "cookingtime": 105
+}

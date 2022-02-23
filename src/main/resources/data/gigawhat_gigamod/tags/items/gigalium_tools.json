@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values":
+    [
+        "gigawhat_gigamod:gigalium_pickaxe",
+        "gigawhat_gigamod:gigalium_axe",
+        "gigawhat_gigamod:gigalium_hoe",
+        "gigawhat_gigamod:gigalium_shovel"
+    ]
+}

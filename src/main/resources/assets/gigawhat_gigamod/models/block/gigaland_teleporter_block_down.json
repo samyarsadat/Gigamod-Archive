@@ -1,0 +1,85 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "gigawhat_gigamod:blocks/gigaland_teleporter_block_texture",
+		"particle": "gigawhat_gigamod:blocks/gigaland_teleporter_block_texture"
+	},
+	"elements": [
+		{
+			"from": [6, 1, 6],
+			"to": [10, 2, 10],
+			"faces": {
+				"north": {"uv": [15, 13, 16, 13.25], "texture": "#0"},
+				"east": {"uv": [15, 13.25, 16, 13.5], "texture": "#0"},
+				"south": {"uv": [15, 13.5, 16, 13.75], "texture": "#0"},
+				"west": {"uv": [15, 13.75, 16, 14], "texture": "#0"},
+				"up": {"uv": [15, 14, 16, 15], "texture": "#0"},
+				"down": {"uv": [15, 15, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [2, 1, 2],
+			"to": [14, 2, 14],
+			"faces": {
+				"north": {"uv": [0, 9, 3, 9.25], "texture": "#0"},
+				"east": {"uv": [0, 9.25, 3, 9.5], "texture": "#0"},
+				"south": {"uv": [0, 9.5, 3, 9.75], "texture": "#0"},
+				"west": {"uv": [0, 9.75, 3, 10], "texture": "#0"},
+				"up": {"uv": [0, 10, 3, 13], "texture": "#0"},
+				"down": {"uv": [0, 13, 3, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 0, 0],
+			"to": [16, 1, 16],
+			"faces": {
+				"north": {"uv": [4, 0.25, 8, 0.5], "texture": "#0"},
+				"east": {"uv": [4, 0.5, 8, 0.75], "texture": "#0"},
+				"south": {"uv": [4, 0, 8, 0.25], "texture": "#0"},
+				"west": {"uv": [4, 0.75, 8, 1], "texture": "#0"},
+				"up": {"uv": [0, 0, 4, 4], "texture": "#0"},
+				"down": {"uv": [0, 4, 4, 8], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [53, 0, 0],
+			"translation": [0, 2.25, 0.25],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [53, 0, 0],
+			"translation": [0, 2.25, 0.25],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_righthand": {
+			"translation": [7.75, 2.5, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_lefthand": {
+			"translation": [7.75, 2.5, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"ground": {
+			"translation": [0, 2.25, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [90, 0, 0]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -8]
+		}
+	},
+	"groups": [
+		{
+			"name": "VoxelShapes",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2]
+		}
+	]
+}

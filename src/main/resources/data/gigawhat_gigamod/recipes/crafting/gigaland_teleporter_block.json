@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " S ",
+        "###",
+        "ggg"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:ender_pearl"
+        },
+        "S": {
+            "tag": "minecraft:buttons"
+        },
+        "g": {
+            "item": "gigawhat_gigamod:gigalium_ingot"
+        }
+    },
+    "result": {
+        "item": "gigawhat_gigamod:gigaland_teleporter_block",
+        "count": 1
+    }
+}

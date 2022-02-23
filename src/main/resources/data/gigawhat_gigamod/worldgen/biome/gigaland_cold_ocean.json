@@ -1,0 +1,48 @@
+{
+    "surface_builder": "gigawhat_gigamod:gigaland_main",
+    "depth": 0.02,
+    "scale": 0.001,
+    "temperature": 0.56,
+    "downfall": 0.4,
+    "precipitation": "rain",
+    "category": "ocean",
+    "player_spawn_friendly": false,
+    "creature_spawn_probability": 0.1,
+    "effects": {
+        "sky_color": 16756224,
+        "fog_color": 16767626,
+        "water_color": 65471,
+        "water_fog_color": 12517097,
+        "grass_color": 8245504,
+        "foliage_color": 8245504
+    },
+    "starts": [],
+    "spawners": {},
+    "spawn_costs": {},
+    "carvers": {
+        "liquid": [
+            "gigawhat_gigamod:gigaland_cave",
+            "gigawhat_gigamod:gigaland_canyon"
+        ],
+        "air": [
+            "gigawhat_gigamod:gigaland_cave",
+            "gigawhat_gigamod:gigaland_canyon"
+        ]
+    },
+    "features": [
+        [
+            "minecraft:patch_large_fern"
+        ],
+        [
+            "minecraft:kelp_cold",
+            "minecraft:seagrass_cold",
+            "minecraft:disk_clay",
+            "minecraft:disk_gravel",
+            "minecraft:disk_sand"
+        ],
+        [
+            "minecraft:lake_water",
+            "minecraft:spring_water"
+        ]
+    ]
+}

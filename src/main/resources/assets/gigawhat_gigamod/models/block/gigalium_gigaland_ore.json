@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_all",
+    "textures": 
+    {
+        "all": "gigawhat_gigamod:blocks/gigalium_gigaland_ore_texture"
+    }
+}
