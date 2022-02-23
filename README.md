@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-	WIP
+	The Gigamod, A Minecraft mod by Gigawhat.
 	<br>
 	<br>
   	<a href="https://github.com/Gigawhat-net/Gigamod/wiki">Wiki (WIP)</a>
