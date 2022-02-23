@@ -18,7 +18,7 @@
 	|
 	<a href="https://files.minecraftforge.net/net/minecraftforge/forge/index_1.16.5.html"><img src="https://img.shields.io/badge/mod%20loader-Forge-orange"></a>
 	|
-	<a href="https://github.com/Gigawhat-net/Gigamod/blob/dev/LICENSE"><img src="https://img.shields.io/github/license/Gigawhat-net/Gigamod"></a>
+	<a href="https://github.com/Gigawhat-net/Gigamod/blob/dev/LICENSE"><img src="https://img.shields.io/github/license/Gigawhat-net/Gigamod?color=blue"></a>
 	|
 	<a href="https://github.com/Gigawhat-net/Gigamod/releases"><img src="https://img.shields.io/github/v/release/Gigawhat-net/Gigamod?display_name=tag&include_prereleases&label=version"></a>
 	|
