@@ -27,24 +27,16 @@
 </p>
 
 ----
-### Disclaimer: Mod is in early development.
+### Disclaimer: Mod is in development.
 #### Note: I am currently working on the <a href="https://www.gigawhat.net">Gigawhat website</a> thus development on Gigamod will be slower.
 ***Note 2:** Before installing any version of the mod, be sure to check <a href="https://github.com/Gigawhat-net/Gigamod/blob/dev/SECURITY.md">SECURITY.md</a>*
 
 <br>
-WIP
-<br>
 
-## Features :
-
-### Features :
-   
-   - *WIP*
-
-
-### Planned Features :
-   
-   - ***WIP** (WIP)*
+Gigamod is Minecraft mod written and maintained by the Gigawhat Programming Team.<br>
+It adds items, blocks, dimensions, mobs, and more!<br>
+We have plans to add a lot more content to the mod.<br>
+You can see a list of planned additions in <a href="https://github.com/Gigawhat-net/Gigamod/blob/dev/change-log.txt">change-log.txt</a>.
 
 <br>
 
@@ -71,9 +63,6 @@ Please take a look at <a href="https://github.com/Gigawhat-net/Gigamod/blob/dev/
 | Lead Developer | <a href="https://github.com/samyarsadat">Samyar Sadat Akhavi</a> |
 | Assets         | <a href="https://github.com/quacker2589">quacker2589</a>         |
 | Sound          | <a href="https://github.com/samyarsadat">Samyar Sadat Akhavi</a> |
-
-### Special Thanks :
-   - WIP
 
 <br>
 <br>
