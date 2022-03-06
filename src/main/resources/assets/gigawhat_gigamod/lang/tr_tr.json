@@ -1,5 +1,4 @@
 {
-    "item.gigawhat_gigamod.item_test": "\u00A7d\u00A7lItem Testi",
     "item.gigawhat_gigamod.gigalium_ingot" : "Gigalium Külçesi",
     "item.gigawhat_gigamod.gigalium_pickaxe" : "Gigalium Kazma",
     "item.gigawhat_gigamod.gigalium_axe" : "Gigalium Balta",
@@ -14,20 +13,12 @@
     "item.gigawhat_gigamod.doctor_who_theme_2005_music_disc" : "Müzik Diski",
     "item.gigawhat_gigamod.i_am_the_doctor_music_disc" : "Müzik Diski",
     "item.gigawhat_gigamod.the_dark_and_endless_dalek_night_music_disc" : "Müzik Diski",
-    "item.gigawhat_gigamod.gigawhat_theme_music_disc" : "Müzik Diski",
     "item.gigawhat_gigamod.imperial_march_music_disc" : "Müzik Diski",
-    "item.gigawhat_gigamod.eren_sahin_eronat_theme_music_disc" : "Müzik Diski",
     "item.gigawhat_gigamod.doctor_who_theme_2005_music_disc.desc" : "Murray Gold - Doctor Who Theme (Album Version)",
     "item.gigawhat_gigamod.i_am_the_doctor_music_disc.desc" : "Murray Gold - I Am The Doctor",
     "item.gigawhat_gigamod.the_dark_and_endless_dalek_night_music_disc.desc" : "Murray Gold - The Dark And Endless Dalek Night",
-    "item.gigawhat_gigamod.gigawhat_theme_music_disc.desc" : "W.I.P.",
     "item.gigawhat_gigamod.imperial_march_music_disc.desc" : "John Williams - Imperial March",
-    "item.gigawhat_gigamod.eren_sahin_eronat_theme_music_disc.desc" : "Seyfi Zeybek - Eren Şahin Eronat Ortaokulu Marşı",
-    "item.gigawhat_gigamod.server_wide_doctor_who_music_disc" : "Sunucu Geniş Müzik Diski",
-    "item.gigawhat_gigamod.server_wide_doctor_who_music_disc.desc" : "Murray Gold - Doctor Who Theme (Album Version)",
 
-    "block.gigawhat_gigamod.block_test" : "\u00A7d\u00A7lBlok Testi",
-    "block.gigawhat_gigamod.block_model_test" : "\u00A7d\u00A7lBlock Model Testi",
     "block.gigawhat_gigamod.gigalium_ore" : "Gigalium Cevheri",
     "block.gigawhat_gigamod.gigalium_nether_ore" : "Nether Gigalium Cevheri",
     "block.gigawhat_gigamod.gigalium_gigaland_ore" : "Gigaland Gigalium Cevheri",
@@ -56,7 +47,5 @@
     "advancement.gigawhat_gigamod.gigalium_combat.title": "Şu canavarları hakla!",
     "advancement.gigawhat_gigamod.gigalium_combat.description": "Gigalium savaş ekipmanları yap.",
     "advancement.gigawhat_gigamod.gigalium_block.title": "Her şey MODERN!",
-    "advancement.gigawhat_gigamod.gigalium_block.description": "Gigalium Bloğu yap.",
-
-    "subtitles.gigawhat_gigamod.server_wide_doctor_who": "SUNUCU GENİŞ DOCTOR WHO"
+    "advancement.gigawhat_gigamod.gigalium_block.description": "Gigalium Bloğu yap."
 }

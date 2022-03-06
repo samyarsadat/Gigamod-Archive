@@ -45,21 +45,16 @@ public class ItemInit
 {
     public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, Gigamod.MOD_ID);
 
-    public static final RegistryObject<Item> ITEM_TEST = ITEMS.register("item_test", () -> new Item(new Item.Properties().rarity(Rarity.EPIC)));
-
     // ------------------------- Spawn Eggs ------------------------- :
 
     public static final RegistryObject<ForgeSpawnEggItem> GIGALAND_PROTECTOR_SPAWN_EGG = ITEMS.register("gigaland_protector_spawn_egg", () -> new ForgeSpawnEggItem(EntityTypeInit.GIGALAND_PROTECTOR, 1710618, 16776960, new Item.Properties().tab(GigamodGroup.GIGAMOD_GROUP).rarity(Rarity.EPIC)));
 
     // ------------------------- Music Discs ------------------------- :
 
-    public static final RegistryObject<Item> SERVER_WIDE_DOCTOR_WHO_MUSIC_DISC = ITEMS.register("server_wide_doctor_who_music_disc", () -> new MusicDiscItem(1, () -> SoundEventsInit.SERVER_WIDE_DOCTOR_WHO.get(), new Item.Properties().stacksTo(1).tab(GigamodGroup.GIGAMOD_GROUP).rarity(Rarity.EPIC)));
     public static final RegistryObject<Item> DOCTOR_WHO_THEME_2005_MUSIC_DISC = ITEMS.register("doctor_who_theme_2005_music_disc", () -> new MusicDiscItem(9, () -> SoundEventsInit.DOCTOR_WHO_THEME_2005.get(), new Item.Properties().stacksTo(1).tab(GigamodGroup.GIGAMOD_GROUP).rarity(Rarity.RARE)));
     public static final RegistryObject<Item> I_AM_THE_DOCTOR_MUSIC_DISC = ITEMS.register("i_am_the_doctor_music_disc", () -> new MusicDiscItem(11, () -> SoundEventsInit.I_AM_THE_DOCTOR.get(), new Item.Properties().stacksTo(1).tab(GigamodGroup.GIGAMOD_GROUP).rarity(Rarity.RARE)));
     public static final RegistryObject<Item> THE_DARK_AND_ENDLESS_DALEK_NIGHT_MUSIC_DISC = ITEMS.register("the_dark_and_endless_dalek_night_music_disc", () -> new MusicDiscItem(10, () -> SoundEventsInit.THE_DARK_AND_ENDLESS_DALEK_NIGHT.get(), new Item.Properties().stacksTo(1).tab(GigamodGroup.GIGAMOD_GROUP).rarity(Rarity.RARE)));
-    public static final RegistryObject<Item> GIGAWHAT_THEME_MUSIC_DISC = ITEMS.register("gigawhat_theme_music_disc", () -> new MusicDiscItem(2, () -> SoundEventsInit.GIGAWHAT_THEME.get(), new Item.Properties().stacksTo(1).rarity(Rarity.RARE)));
     public static final RegistryObject<Item> IMPERIAL_MARCH_MUSIC_DISC = ITEMS.register("imperial_march_music_disc", () -> new MusicDiscItem(15, () -> SoundEventsInit.IMPERIAL_MARCH.get(), new Item.Properties().stacksTo(1).tab(GigamodGroup.GIGAMOD_GROUP).rarity(Rarity.RARE)));
-    public static final RegistryObject<Item> EREN_SAHIN_ERONAT_THEME_MUSIC_DISC = ITEMS.register("eren_sahin_eronat_theme_music_disc", () -> new MusicDiscItem(14, () -> SoundEventsInit.EREN_SAHIN_ERONAT_THEME.get(), new Item.Properties().stacksTo(1).rarity(Rarity.RARE)));
 
     // ------------------------- Tools & Combat ------------------------- :
 

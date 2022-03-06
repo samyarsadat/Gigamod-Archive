@@ -32,7 +32,7 @@ public class GigamodGroup
         @Override
         public ItemStack makeIcon() 
         {
-            return new ItemStack(BlockInit.BLOCK_TEST.get());
+            return new ItemStack(BlockInit.GIGALIUM_BLOCK.get());
         }
     };
 }
