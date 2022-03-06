@@ -43,10 +43,7 @@ public class SoundEventsInit
     public static final RegistryObject<SoundEvent> DOCTOR_WHO_THEME_2005 = registerSoundEvent("doctor_who_theme_2005");
     public static final RegistryObject<SoundEvent> I_AM_THE_DOCTOR = registerSoundEvent("i_am_the_doctor");
     public static final RegistryObject<SoundEvent> THE_DARK_AND_ENDLESS_DALEK_NIGHT = registerSoundEvent("the_dark_and_endless_dalek_night");
-    public static final RegistryObject<SoundEvent> GIGAWHAT_THEME = registerSoundEvent("gigawhat_theme");
     public static final RegistryObject<SoundEvent> IMPERIAL_MARCH = registerSoundEvent("imperial_march");
-    public static final RegistryObject<SoundEvent> EREN_SAHIN_ERONAT_THEME = registerSoundEvent("eren_sahin_eronat_theme");
-    public static final RegistryObject<SoundEvent> SERVER_WIDE_DOCTOR_WHO = registerSoundEvent("server_wide_doctor_who");
 
     private static RegistryObject<SoundEvent> registerSoundEvent(String name)
     {

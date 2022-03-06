@@ -1,5 +1,4 @@
 {
-    "item.gigawhat_gigamod.item_test": "\u00A7d\u00A7lItem Test",
     "item.gigawhat_gigamod.gigalium_ingot" : "Gigalium Ingot",
     "item.gigawhat_gigamod.gigalium_pickaxe" : "Gigalium Pickaxe",
     "item.gigawhat_gigamod.gigalium_axe" : "Gigalium Axe",
@@ -14,20 +13,12 @@
     "item.gigawhat_gigamod.doctor_who_theme_2005_music_disc" : "Music Disc",
     "item.gigawhat_gigamod.i_am_the_doctor_music_disc" : "Music Disc",
     "item.gigawhat_gigamod.the_dark_and_endless_dalek_night_music_disc" : "Music Disc",
-    "item.gigawhat_gigamod.gigawhat_theme_music_disc" : "Music Disc",
     "item.gigawhat_gigamod.imperial_march_music_disc" : "Music Disc",
-    "item.gigawhat_gigamod.eren_sahin_eronat_theme_music_disc" : "Music Disc",
     "item.gigawhat_gigamod.doctor_who_theme_2005_music_disc.desc" : "Murray Gold - Doctor Who Theme (Album Version)",
     "item.gigawhat_gigamod.i_am_the_doctor_music_disc.desc" : "Murray Gold - I Am The Doctor",
     "item.gigawhat_gigamod.the_dark_and_endless_dalek_night_music_disc.desc" : "Murray Gold - The Dark And Endless Dalek Night",
-    "item.gigawhat_gigamod.gigawhat_theme_music_disc.desc" : "W.I.P.",
     "item.gigawhat_gigamod.imperial_march_music_disc.desc" : "John Williams - Imperial March",
-    "item.gigawhat_gigamod.eren_sahin_eronat_theme_music_disc.desc" : "Seyfi Zeybek - Eren Şahin Eronat Ortaokulu Marşı",
-    "item.gigawhat_gigamod.server_wide_doctor_who_music_disc" : "Server Wide Music Disc",
-    "item.gigawhat_gigamod.server_wide_doctor_who_music_disc.desc" : "Murray Gold - Doctor Who Theme (Album Version)",
 
-    "block.gigawhat_gigamod.block_test" : "\u00A7d\u00A7lBlock Test",
-    "block.gigawhat_gigamod.block_model_test" : "\u00A7d\u00A7lBlock Model Test",
     "block.gigawhat_gigamod.gigalium_ore" : "Gigalium Ore",
     "block.gigawhat_gigamod.gigalium_nether_ore" : "Nether Gigalium Ore",
     "block.gigawhat_gigamod.gigalium_gigaland_ore" : "Gigaland Gigalium Ore",
@@ -56,7 +47,5 @@
     "advancement.gigawhat_gigamod.gigalium_combat.title": "Take that monsters!",
     "advancement.gigawhat_gigamod.gigalium_combat.description": "Craft Gigalium combat equipment.",
     "advancement.gigawhat_gigamod.gigalium_block.title": "Everything is MODERN!",
-    "advancement.gigawhat_gigamod.gigalium_block.description": "Craft blocks of Gigalium.",
-
-    "subtitles.gigawhat_gigamod.server_wide_doctor_who": "SERVER WIDE DOCTOR WHO"
+    "advancement.gigawhat_gigamod.gigalium_block.description": "Craft blocks of Gigalium."
 }

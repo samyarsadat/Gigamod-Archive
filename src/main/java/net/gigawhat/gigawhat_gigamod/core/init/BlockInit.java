@@ -24,8 +24,6 @@ package net.gigawhat.gigawhat_gigamod.core.init;
 import java.util.function.Supplier;
 
 import net.gigawhat.gigawhat_gigamod.Gigamod;
-import net.gigawhat.gigawhat_gigamod.common.blocks.Block_Model_Test_Properties;
-import net.gigawhat.gigawhat_gigamod.common.blocks.Block_Test;
 import net.gigawhat.gigawhat_gigamod.common.blocks.Gigaland_Teleporter_Block;
 import net.gigawhat.gigawhat_gigamod.common.blocks.Gigalium_Block;
 import net.gigawhat.gigawhat_gigamod.common.blocks.Gigalium_Gigaland_Ore;
@@ -46,10 +44,6 @@ import net.minecraftforge.registries.ForgeRegistries;
 public class BlockInit 
 {
     public static final DeferredRegister<Block> BLOCKS = DeferredRegister.create(ForgeRegistries.BLOCKS, Gigamod.MOD_ID);
-
-    // Test block :
-    public static final RegistryObject<Block> BLOCK_TEST = registerBlock("block_test", Block_Test::new, null, Rarity.EPIC);
-    public static final RegistryObject<Block> BLOCK_MODEL_TEST = registerBlock("block_model_test", Block_Model_Test_Properties::new, null, Rarity.EPIC);
 
     // Gigalium :
     public static final RegistryObject<Block> GIGALIUM_BLOCK = registerBlock("gigalium_block", Gigalium_Block::new, GigamodGroup.GIGAMOD_GROUP, null);

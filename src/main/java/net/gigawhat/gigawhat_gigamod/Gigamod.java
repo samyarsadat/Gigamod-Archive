@@ -90,7 +90,6 @@ public class Gigamod
     {
         event.enqueueWork(() -> 
         {
-            RenderTypeLookup.setRenderLayer(BlockInit.BLOCK_MODEL_TEST.get(), RenderType.cutout());
             RenderTypeLookup.setRenderLayer(BlockInit.GIGALAND_TELEPORTER_BLOCK.get(), RenderType.cutout());
         });
 
