@@ -16,7 +16,7 @@ version = '0.2.1'
 group = 'net.gigawhat.gigawhat_gigamod'
 archivesBaseName = 'gigawhat_gigamod'
 
-java.toolchain.languageVersion = JavaLanguageVersion.of(8) // Mojang ships Java 8 to end users, so your mod should target Java 8.
+java.toolchain.languageVersion = JavaLanguageVersion.of(8)
 
 println('Java: ' + System.getProperty('java.version') + ' JVM: ' + System.getProperty('java.vm.version') + '(' + System.getProperty('java.vendor') + ') Arch: ' + System.getProperty('os.arch'))
 minecraft {
@@ -69,7 +69,7 @@ minecraft {
 sourceSets.main.resources { srcDir 'src/generated/resources' }
 
 dependencies {
-    minecraft 'net.minecraftforge:forge:1.16.5-36.2.20'
+    minecraft 'net.minecraftforge:forge:1.16.5-36.2.29'
 }
 
 jar {
@@ -94,6 +94,7 @@ publishing {
             artifact jar
         }
     }
+
     repositories {
         maven {
             url "file:///${project.projectDir}/mcmodsrepo"

@@ -36,7 +36,7 @@ GitHub: https://www.github.com/Gigawhat-net/Gigamod
 
     modId = "forge"
     mandatory = true
-    versionRange = "[36.2,)"
+    versionRange = "[36.2.20,)"
     ordering = "NONE"
     side = "BOTH"
 
