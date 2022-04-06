@@ -9,6 +9,7 @@ The ones marked with :x: have a known vulnerability or are no longer supported t
 | Version | Supported          |
 | ------- | ------------------ |
 | v0.2.0  | :white_check_mark: |
+| v0.2.1  | :white_check_mark: |
 
 ## Reporting a Vulnerability
 
