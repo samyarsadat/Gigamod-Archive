@@ -33,46 +33,34 @@ Version 0.2.0 (The Gigaland Update) :
     19. Added Gigaland teleporter block. (It can be used to get to the Gigaland dimension)
     20. Added Music discs.
 
+Version 0.2.1 (The Gigaland Update) :
 
-To-do list :
-
-    1. Fix Gigalium tools & sword attack damage. (Done)
-    2. Fix Gigalium tools & sword attack speed. (Done)
-    3. Add teleporter block for Gigaland dimension. (Done)
-    4. Add Gigaland Gigalium ore. (Done)
-    5. Change Gigastone texture. (Done)
-    6. Add caves & carvers to Gigaland. (Done)
-    7. Decrease Gigaland scale & depth. (Done)
-    8. Add animated loading screen. (For version 0.5)
-    9. Add modeled block with voxel shape & orientation. (Done)
-    10. Add translations for advancements. (Done)
-    11. Add Gigaland custom mob. (Done)
-    12. Decrease Gigalium generation amount in Gigaland. (Done)
-    13. Add silver, gold and copper coins for trading. (For version 0.3)
-    14. Add special tile entity for crafting coins. (For version 0.3)
-    15. Add a calculator block. (For version 0.3)
-    16. Add a vending machine that accepts coins. (For version 0.3)
-    17. Add credit cards. (For version 0.3)
-    18. Add crafting recipe for Gigalium tools & sword. (Done)
-    19. Add C4. (For version 0.4)
-    20. Add weapons. (For version 0.4)
-    21. Add Gigalium armor. (Done)
-    22. Add Gigalium decorational items. (For version 0.5)
-    23. Add trees and decoration to Gigaland. (For version 0.5)
-    24. Add API for communication with Gigawhat Essentials. (For version 0.3)
-    25. Add FBI badges. (For version 0.4)
-    26. Format some item names. (Done)
-    27. Change Gigaland Gigalium ore texture. (Done)
-    28. Add splashes. (Done)
-    29. Add logging. (Done)
-    30. Fix Gigaland teleporter class. (Done)
-    31. Add structures to Gigaland. (For version 0.5)
-    32. Add underground variety to Gigaland. (For version 0.5)
-    33. Add other biomes to Gigaland. (Done)
-    34. Add Gigalium hammer. (Has a chance to drop when player kills a Gigaland protector)
+    1. Removed two music discs.
+    2. Removed test blocks.
+    3. Fixed minimum forge version requirement.
+    4. Updated forge version to 36.2.29.
 
 
-Version names :
+To be added :
+
+    1. Add animated loading screen. (For version 0.5)
+    2. Add silver, gold and copper coins for trading. (For version 0.3)
+    3. Add special tile entity for crafting coins. (For version 0.3)
+    4. Add a calculator block. (For version 0.3)
+    5. Add a vending machine that accepts coins. (For version 0.3)
+    6. Add credit cards. (For version 0.3)
+    7. Add C4. (For version 0.4)
+    8. Add weapons. (For version 0.4)
+    9. Add Gigalium decorational items. (For version 0.5)
+    10. Add trees and decoration to Gigaland. (For version 0.5)
+    11. Add API. (For version 0.3)
+    12. Add FBI badges. (For version 0.4)
+    13. Add structures to Gigaland. (For version 0.5)
+    14. Add underground variety to Gigaland. (For version 0.5)
+    15. Add Gigalium hammer. (Has a chance to drop when player kills a Gigaland protector)
+
+
+Planned version names :
 
     V0.2 - The Gigaland Update
     V0.3 - The Trading Update

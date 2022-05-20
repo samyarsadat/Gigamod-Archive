@@ -8,7 +8,7 @@ version = "0.2.1"
 displayName = "Gigamod"
 #logoFile = "examplemod.png"
 authors = "Gigawhat Programming Team"
-credits = "Samyar Sadat Akhavi, quacker2589"
+credits = "Samyar Sadat Akhavi"
 description = '''
 Gigamod, A Minecraft mod by Gigawhat.
 
@@ -19,7 +19,7 @@ Gigamod, A Minecraft mod by Gigawhat.
 §aLead developer : Samyar Sadat Akhavi
 
 §e§o---- Textures & Models ----§r
-§7Texture design : quacker2589, Samyar Sadat Akhavi
+§7Texture design : Samyar Sadat Akhavi
 §7Modeling : Samyar Sadat Akhavi
 
 §9§o---- Sound ----§r
@@ -36,7 +36,7 @@ GitHub: https://www.github.com/Gigawhat-net/Gigamod
 
     modId = "forge"
     mandatory = true
-    versionRange = "[36.2,)"
+    versionRange = "[36.2.20,)"
     ordering = "NONE"
     side = "BOTH"
 

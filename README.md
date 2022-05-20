@@ -61,7 +61,7 @@ Please take a look at <a href="https://github.com/Gigawhat-net/Gigamod/blob/dev/
 | Role           | Name                                                             |
 | -------------- | ---------------------------------------------------------------- |
 | Lead Developer | <a href="https://github.com/samyarsadat">Samyar Sadat Akhavi</a> |
-| Assets         | <a href="https://github.com/quacker2589">quacker2589</a>         |
+| Assets         | <a href="https://github.com/samyarsadat">Samyar Sadat Akhavi</a> |
 | Sound          | <a href="https://github.com/samyarsadat">Samyar Sadat Akhavi</a> |
 
 <br>
